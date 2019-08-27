@@ -1,0 +1,21 @@
+{
+    "name": "dont-know",
+    "displayName": "Don't Knøw Can you please don",
+    "description": "dont know",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Don't know Can you please don't ask me please",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Don't know Can you please don't ask me please-color-theme.json"
+            }
+        ]
+    }
+}
