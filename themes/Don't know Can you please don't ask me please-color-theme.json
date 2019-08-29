@@ -5,27 +5,27 @@
     "foreground": "#e0e0e0",
     "focusBorder": "#533339",
     "errorForeground": "#fd8293",
+    "descriptionForeground": "#e9ccd0",
     "widget.shadow": "#222222",
-
 
 		"editor.background": "#222222",
     "editor.foreground": "#e0e0e0",
 
     "editorPane.background": "#222222",
 
-    "editorGroup.border": "#222222",
+    "editorGroup.border": "#333333",
     "editorGroup.dropBackground": "#363636",
     "editorGroup.emptyBackground": "#222222",
     "editorGroup.focusedEmptyBorder": "#222222",
     "editorGroupHeader.noTabsBackground": "#222222",
     "editorGroupHeader.tabsBackground": "#222222",
     "editorGroupHeader.tabsBorder": "#222222",
-    "tab.activeBackground": "#222222",
-    "tab.activeBorderTop": "#5c383e",
-    "tab.activeModifiedBorder": "#222222",
 
-    "tab.activeBorder": "#222222",
-    "tab.activeForeground": "#9c5e6a",
+    "tab.activeBackground": "#282828",
+    "tab.activeBorderTop": "#222222",
+    "tab.activeModifiedBorder": "#222222",
+    "tab.activeBorder": "#9c5e6a",
+    "tab.activeForeground": "#e9ccd0",
     "tab.border": "#222222",
     "tab.inactiveBackground": "#222222",
     "tab.inactiveForeground": "#484848",
@@ -177,8 +177,8 @@
     "inputValidation.warningForeground": "#2f00ff",
 
     "scrollbar.shadow": "#222222",
-    "scrollbarSlider.activeBackground": "#616161",
-    "scrollbarSlider.background": "#363636",
+    "scrollbarSlider.activeBackground": "#333333",
+    "scrollbarSlider.background": "#282828",
     "scrollbarSlider.hoverBackground": "#525252",
 
     "badge.background": "#464647",
@@ -234,15 +234,12 @@
     "pickerGroup.border": "#363636",
     "pickerGroup.foreground": "#EAEAEA",
 
-    "statusBar.background": "#1A1A1A",
-    "statusBar.debuggingBackground": "#1A1A1A",
-    "statusBar.foreground": "#7E7E7E",
-    "statusBar.noFolderBackground": "#1A1A1A",
-
-
-    "titleBar.activeBackground": "#1A1A1A",
-    "titleBar.border": "#1A1A1A"
-
+    "statusBar.background": "#222222",
+    "statusBar.debuggingBackground": "#222222",
+    "statusBar.foreground": "#525252",
+    "statusBar.noFolderBackground": "#222222",
+    "statusBar.border": "#333333",
+    "statusBar.debuggingBorder": "#333333",
 	},
 	"tokenColors": [
 		{
