@@ -2,7 +2,7 @@
 	"name": "Don't know Can you please don't ask me please",
 	"type": "dark",
 	"colors": {
-    "foreground": "#e9ccd0",
+    "foreground": "#dcdcdc",
     "focusBorder": "#533339",
     "errorForeground": "#fd8293",
     "descriptionForeground": "#e9ccd0",
@@ -10,7 +10,7 @@
     "selection.background": "#333333",
 
 		"editor.background": "#222222",
-    "editor.foreground": "#e9ccd0",
+    "editor.foreground": "#dcdcdc",
 
     "editorPane.background": "#222222",
 
