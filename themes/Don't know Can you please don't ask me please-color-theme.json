@@ -49,7 +49,7 @@
     "editor.findMatchHighlightBorder": "#bd879248",
     "editor.findRangeHighlightBackground": "#bd879248",
     "editor.findRangeHighlightBorder": "#bd879248",
-    "editor.focusedStackFrameHighlightBackground": "#bd879248",
+    // "editor.focusedStackFrameHighlightBackground": "#bd879248",
     "editor.hoverHighlightBackground": "#bd879248",
     "editor.inactiveSelectionBackground": "#bd879248",
     "editor.lineHighlightBackground": "#252525",
@@ -77,12 +77,6 @@
 
     "editorCursor.background": "#6b6b6b",
     "editorCursor.foreground": "#6b6b6b",
-
-    "editorGutter.addedBackground": "#222222",
-    "editorGutter.background": "#222222",
-    "editorGutter.commentRangeForeground": "#9c5e6a",
-    "editorGutter.deletedBackground": "#9c5e6a",
-    "editorGutter.modifiedBackground": "#9c5e6a",
 
     "editorLineNumber.foreground": "#333333",
     "editorLineNumber.activeForeground": "#444444",
@@ -281,6 +275,12 @@
     "gitDecoration.modifiedResourceForeground": "#7199a3",
     // "gitDecoration.submoduleResourceForeground": "#9c5e6a",
     "gitDecoration.untrackedResourceForeground": "#9c9c9f",
+
+    "editorGutter.addedBackground": "#9aa172",
+    "editorGutter.background": "#222222",
+    "editorGutter.commentRangeForeground": "#333333",
+    "editorGutter.deletedBackground": "#9c5e6a",
+    "editorGutter.modifiedBackground": "#7199a3",
 
     "settings.checkboxBackground": "#282828",
     "settings.checkboxBorder": "#333333",
