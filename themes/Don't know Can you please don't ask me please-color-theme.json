@@ -199,7 +199,7 @@
     "list.inactiveSelectionForeground": "#9c9c9f",
     "list.invalidItemForeground": "#bd8792",
     "list.warningForeground": "#331a0f",
-    "listFilterWidget.background": "#222222",
+    "listFilterWidget.background": "#282828",
     "listFilterWidget.noMatchesOutline": "#bd8792",
     "listFilterWidget.outline": "#bd8792",
 
