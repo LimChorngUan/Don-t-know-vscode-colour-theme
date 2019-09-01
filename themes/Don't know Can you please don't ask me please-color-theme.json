@@ -267,9 +267,9 @@
     "merge.incomingContentBackground": "#bd879248",
     "merge.incomingHeaderBackground": "#4444446c",
 
-    "extensionButton.prominentBackground": "#5c383e",
+    "extensionButton.prominentBackground": "#9c5e6a",
     "extensionButton.prominentForeground": "#f1ecec",
-    "extensionButton.prominentHoverBackground": "#ff0000",
+    "extensionButton.prominentHoverBackground": "#be938d",
 
     "pickerGroup.border": "#333333",
     "pickerGroup.foreground": "#e9ccd0",
