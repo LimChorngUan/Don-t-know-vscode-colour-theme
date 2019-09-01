@@ -155,8 +155,8 @@
     "button.foreground": "#e0e0e0",
     "button.hoverBackground": "#bd8792",
 
-    "dropdown.background": "#222222",
-    "dropdown.listBackground": "#222222",
+    "dropdown.background": "#282828",
+    "dropdown.listBackground": "#282828",
     "dropdown.border": "#4b4a4a",
     "dropdown.foreground": "#e0e0e0",
 
