@@ -52,7 +52,7 @@
     "editor.focusedStackFrameHighlightBackground": "#bd879248",
     "editor.hoverHighlightBackground": "#bd879248",
     "editor.inactiveSelectionBackground": "#bd879248",
-    "editor.lineHighlightBackground": "#252525",
+    "editor.lineHighlightBackground": "#333333",
     // "editor.lineHighlightBorder": "#252525",
     "editor.rangeHighlightBackground": "#282828",
     // "editor.rangeHighlightBorder": "#282828",
@@ -75,8 +75,8 @@
 
     "editorCodeLens.foreground": "#e0e0e0",
 
-    "editorCursor.background": "#6b6b6b",
-    "editorCursor.foreground": "#6b6b6b",
+    "editorCursor.background": "#bdb6b6",
+    "editorCursor.foreground": "#bdb6b6",
 
     "editorLineNumber.foreground": "#333333",
     "editorLineNumber.activeForeground": "#444444",
