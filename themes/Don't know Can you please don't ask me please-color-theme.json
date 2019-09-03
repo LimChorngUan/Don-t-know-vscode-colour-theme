@@ -126,10 +126,10 @@
     "editorSuggestWidget.highlightForeground": "#bd8792",
     "editorSuggestWidget.selectedBackground": "#333333",
 
-    // "editorUnnecessaryCode.border": "#ff0000",
-    // "editorUnnecessaryCode.opacity": "#ff0000",
-    // "editorWarning.border": "#ff0000",
-    // "editorWarning.foreground": "#ff0000",
+    "editorUnnecessaryCode.border": "#fd8293",
+    "editorUnnecessaryCode.opacity": "#fd8293",
+    "editorWarning.border": "#fd8293",
+    "editorWarning.foreground": "#fd8293",
 
     "editorWhitespace.foreground": "#383838",
 
@@ -338,7 +338,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#ff6f8c"
+				"foreground": "#fd8293"
 			}
 		},
 		{
