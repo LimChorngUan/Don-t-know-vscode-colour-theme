@@ -29,7 +29,7 @@
     "tab.activeForeground": "#e9ccd0",
     "tab.border": "#222222",
     "tab.inactiveBackground": "#222222",
-    "tab.inactiveForeground": "#484848",
+    "tab.inactiveForeground": "#555555",
     "tab.hoverBackground": "#262626",
     "tab.hoverBorder": "#222222",
     // "tab.inactiveModifiedBorder": "#222222",
