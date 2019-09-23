@@ -525,7 +525,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#12efff"
+				"foreground": "#7199a3"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#da9ba9"
 			}
 		},
 		{
@@ -555,7 +555,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#da9ba9"
 			}
 		},
 		{
@@ -564,7 +564,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#b4ff82"
+				"foreground": "#7199a3"
 			}
 		},
 		{
