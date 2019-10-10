@@ -190,7 +190,7 @@
     "list.hoverForeground": "#e9ccd0",
     "list.inactiveFocusBackground": "#222222",
     "list.inactiveSelectionBackground": "#222222",
-    "list.inactiveSelectionForeground": "#9c9c9f",
+    "list.inactiveSelectionForeground": "#e9ccd0",
     "list.invalidItemForeground": "#bd8792",
     "list.warningForeground": "#331a0f",
     "listFilterWidget.background": "#282828",
