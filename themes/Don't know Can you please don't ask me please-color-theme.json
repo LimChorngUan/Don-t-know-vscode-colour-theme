@@ -71,7 +71,7 @@
     "editor.wordHighlightStrongBorder": "#3f3f3f9f",
 
     "editorBracketMatch.background": "#445d63d3",
-    "editorBracketMatch.border": "#7199a3",
+    "editorBracketMatch.border": "#445d63d3",
 
     "editorCodeLens.foreground": "#e0e0e0",
 
