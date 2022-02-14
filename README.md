@@ -1,13 +1,7 @@
 # README
-## This is the README for your extension "dont-know"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## This is my "dont-know" Visual Studio Code theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Why "dont-know", because I really don't know how should I named this beautiful theme.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+![Screenshot 2022-02-14 at 20 06 07](https://user-images.githubusercontent.com/44613453/153929624-8c9d7799-257f-41c8-807c-8ec3e227c280.png)
